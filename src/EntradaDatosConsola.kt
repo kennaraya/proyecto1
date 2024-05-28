@@ -1,21 +1,28 @@
 fun main() {
+    /*
     //problema1
     print("Ingrese primer valor:")
     // readln() captura la entrada del teclado
     // .toInt() convierte los datos de entrada a tipo numerico
-    val valor1= readln() .toInt()
+    val valor1 = readln() .toInt()
     print("Ingrese segundo valor:")
     val valor2= readln() .toInt()
     val suma=valor1+valor2
     println("La suma de $valor1 y $valor2 es $suma")
     val producto = valor1*valor2
     println("El producto de $valor1 y $valor2 es $producto")
+    */
+
+    /*
     //problema2
     print("Ingrese el valor de los lados del cuadrado:")
     val lado= readln().toInt()
     val superficie = lado*lado
     val perimetro= lado*4
-    println("Un cuadrado con lados de $lado tiene como superficie $superficie y perimetro $perimetro")
+    println("Un cuadrado con lados de $lado tiene como superficie $superficie y perimetro $perimetro"
+       */
+
+    /*
     //problema3
     print("Ingrese el precio del producto:")
     val precio= readln().toInt()
@@ -23,6 +30,8 @@ fun main() {
     val cantidad= readln().toInt()
     val abonar= precio*cantidad
     println("El comprador debe abonar $abonar")
+    */
+
         //problema4
     print("Ingrese el primer valor:")
     val valor1= readln().toInt()
